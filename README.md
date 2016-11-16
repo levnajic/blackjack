@@ -1,1 +1,3 @@
 # blackjack
+
+c++ excercise project
